@@ -83,4 +83,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
+* **Steven Odhiambo** - [sephens](https://github.com/Sephens)
